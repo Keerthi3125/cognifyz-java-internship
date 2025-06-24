@@ -20,3 +20,15 @@ This repository contains the Java development tasks completed as part of my inte
 - [x] Chat Application (Socket Programming)
 
 ## 📂 Folder Structure
+cognifyz-java-internship/
+│
+├── Level-1/
+│ └── PalindromeChecker.java
+│
+├── Level-2/
+│ └── PasswordStrengthChecker.java
+│
+├── Level-3/
+│ └── ChatApp/
+│ ├── Server.java
+│ └── Client.java
