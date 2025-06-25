@@ -13,8 +13,5 @@ public class PalindromeChecker {
         } else {
             System.out.println("Not a palindrome.");
         }
-
-
-        // next steps will go here
     }
 }
